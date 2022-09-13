@@ -9,12 +9,18 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "keywords": ["mentora","maternidade","mães"],
+  "keywords": [
+    "mentora",
+    "maternidade",
+    "mães"
+  ],
   "author": "Magson Magalhaes",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.2.1",
     "next": "^12.3.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sass": "^1.54.9"
   }
 }
