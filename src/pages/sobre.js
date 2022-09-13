@@ -1,4 +1,4 @@
-import profilePic from '../public/img/foto-sobre.jpeg'
+import sobrePic from '../public/img/foto-sobre.jpeg'
 import Image from "next/image";
 
 export default function Sobre() {
@@ -8,7 +8,7 @@ export default function Sobre() {
                 <div className="col-md-6">
                     <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
                         <div className="col-auto d-lg-block">
-                            <Image   src={profilePic} width="400" height="500" />
+                            <Image   src={sobrePic} width="400" height="500" />
                         </div>
                         <div className="col p-4 d-flex flex-column position-static">
                             <h3 className="mb-0">Sobre Mim</h3>
