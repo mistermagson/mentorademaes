@@ -1,7 +1,11 @@
 # Mentora de Mães
 
-## Install:
+## Dev:
 
 ``` npm install ```
 
 ``` next dev ```
+
+## Deploy 
+
+``` next export ```
