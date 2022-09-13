@@ -1,0 +1,3 @@
+bg #FCEEE8
+button #A52F47
+borda circulo #F4CFD0
